@@ -22,13 +22,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](assets/design/desktop-preview.jpg)
-![](assets/design/mobile-design.jpg)
+![Desktop View](assets/design/desktop-preview.jpg)
+![Mobile View](assets/design/mobile-design.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/Ghosted34/results-summary)
+- Live Site URL: [Vercel](https://resulum.vercel.app/)
 
 ### Built with
 
@@ -41,5 +41,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://adolejerome.netlify.app)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Adole](https://adolejerome.netlify.app)
+- Frontend Mentor - [@Ghosted34](https://www.frontendmentor.io/profile/Ghosted34)
